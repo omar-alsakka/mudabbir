@@ -1,0 +1,71 @@
+{
+  "app": {
+    "name": "مدبر",
+    "tagline": "مديرك المالي الذكي"
+  },
+  "nav": {
+    "dashboard": "لوحة التحكم",
+    "wallets": "المحافظ",
+    "transactions": "المعاملات",
+    "budgets": "الميزانيات",
+    "savings": "التوفير",
+    "debts": "الديون",
+    "subscriptions": "الاشتراكات",
+    "shoppingList": "قائمة التسوق",
+    "reports": "التقارير",
+    "settings": "الإعدادات"
+  },
+  "auth": {
+    "login": "تسجيل الدخول",
+    "register": "إنشاء حساب",
+    "email": "البريد الإلكتروني",
+    "password": "كلمة المرور",
+    "confirmPassword": "تأكيد كلمة المرور",
+    "name": "الاسم الكامل",
+    "preferredLang": "اللغة المفضلة",
+    "forgotPassword": "نسيت كلمة المرور؟",
+    "noAccount": "ليس لديك حساب؟",
+    "hasAccount": "لديك حساب بالفعل؟",
+    "signOut": "تسجيل الخروج"
+  },
+  "common": {
+    "save": "حفظ",
+    "cancel": "إلغاء",
+    "delete": "حذف",
+    "edit": "تعديل",
+    "create": "إنشاء",
+    "search": "بحث",
+    "filter": "تصفية",
+    "loading": "جاري التحميل...",
+    "noData": "لا توجد بيانات",
+    "amount": "المبلغ",
+    "date": "التاريخ",
+    "description": "الوصف",
+    "category": "الفئة",
+    "wallet": "المحفظة",
+    "income": "دخل",
+    "expense": "مصروف",
+    "transfer": "تحويل"
+  },
+  "dashboard": {
+    "totalBalance": "الرصيد الإجمالي",
+    "monthlyIncome": "الدخل الشهري",
+    "monthlyExpenses": "المصروفات الشهرية",
+    "netWorth": "صافي الثروة",
+    "safeToSpend": "آمن للإنفاق",
+    "perDay": "يومياً",
+    "spendingByCategory": "الإنفاق حسب الفئة",
+    "monthlyTrend": "الاتجاه الشهري",
+    "recentTransactions": "المعاملات الأخيرة"
+  },
+  "privacy": {
+    "toggle": "وضع الخصوصية",
+    "enabled": "تم تفعيل وضع الخصوصية",
+    "disabled": "تم إيقاف وضع الخصوصية"
+  },
+  "theme": {
+    "dark": "داكن",
+    "light": "فاتح",
+    "oled": "أوليد"
+  }
+}

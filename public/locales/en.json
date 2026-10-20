@@ -1,0 +1,71 @@
+{
+  "app": {
+    "name": "Mudabbir",
+    "tagline": "Your Smart Financial Manager"
+  },
+  "nav": {
+    "dashboard": "Dashboard",
+    "wallets": "Wallets",
+    "transactions": "Transactions",
+    "budgets": "Budgets",
+    "savings": "Savings",
+    "debts": "Debts",
+    "subscriptions": "Subscriptions",
+    "shoppingList": "Shopping List",
+    "reports": "Reports",
+    "settings": "Settings"
+  },
+  "auth": {
+    "login": "Sign In",
+    "register": "Sign Up",
+    "email": "Email",
+    "password": "Password",
+    "confirmPassword": "Confirm Password",
+    "name": "Full Name",
+    "preferredLang": "Preferred Language",
+    "forgotPassword": "Forgot Password?",
+    "noAccount": "Don't have an account?",
+    "hasAccount": "Already have an account?",
+    "signOut": "Sign Out"
+  },
+  "common": {
+    "save": "Save",
+    "cancel": "Cancel",
+    "delete": "Delete",
+    "edit": "Edit",
+    "create": "Create",
+    "search": "Search",
+    "filter": "Filter",
+    "loading": "Loading...",
+    "noData": "No data found",
+    "amount": "Amount",
+    "date": "Date",
+    "description": "Description",
+    "category": "Category",
+    "wallet": "Wallet",
+    "income": "Income",
+    "expense": "Expense",
+    "transfer": "Transfer"
+  },
+  "dashboard": {
+    "totalBalance": "Total Balance",
+    "monthlyIncome": "Monthly Income",
+    "monthlyExpenses": "Monthly Expenses",
+    "netWorth": "Net Worth",
+    "safeToSpend": "Safe to Spend",
+    "perDay": "per day",
+    "spendingByCategory": "Spending by Category",
+    "monthlyTrend": "Monthly Trend",
+    "recentTransactions": "Recent Transactions"
+  },
+  "privacy": {
+    "toggle": "Privacy Mode",
+    "enabled": "Privacy mode enabled",
+    "disabled": "Privacy mode disabled"
+  },
+  "theme": {
+    "dark": "Dark",
+    "light": "Light",
+    "oled": "OLED"
+  }
+}
