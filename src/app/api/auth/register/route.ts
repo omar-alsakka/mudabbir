@@ -37,7 +37,8 @@ export async function POST(request: Request) {
     });
 
     return Response.json(user, { status: 201 });
-  } catch {
+  } catch (err) {
+    console.error("[register] error:", err);
     return Response.json({ error: "Internal server error" }, { status: 500 });
   }
 }
